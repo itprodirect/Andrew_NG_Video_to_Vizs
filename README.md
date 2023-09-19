@@ -46,6 +46,19 @@ The notebook will generate various plots and insights into the video content.
 
 ## 📈 Example Visualizations
 
-_TODO: Add your visualization screenshots here._
+### 🌟 Word Cloud of Transcript
+![Word Cloud of Transcript](screenshots/Word_cloud_of_transcript.png)
+
+### 🌟 Top Named Entities Frequency Bar Chart
+![Top Named Entities Frequency Bar Chart](screenshots/Top_named_enteties_frequency_barchart.png)
+
+### 🌟 Top Topics in Transcript
+![Top Topics in Transcript](screenshots/Top_topic_in_transcript.png)
+
+### 🌟 Top 20 Most Frequent Words
+![Top 20 Most Frequent Words](screenshots/Top_20_most-frequent_words.png)
+
+### 🌟 Top Keywords in Podcast
+![Top Keywords in Podcast](screenshots/Top_keywords_in_podcast.png)
 
 ---
